@@ -1,0 +1,8 @@
+
+your_name = input()
+agents_number = int(input())
+guests = input().strip()
+
+print(guests)
+
+
