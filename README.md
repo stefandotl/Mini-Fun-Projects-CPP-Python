@@ -1,2 +1,2 @@
 # Mini-Projects-CPP-Python
-Self-developed solutions for mini-projects/challenges from SoloLearn
+Self-developed solutions for all mini-projects/challenges from SoloLearn
